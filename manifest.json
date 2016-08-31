@@ -18,6 +18,7 @@
     "newtab": "src/override/override.html"
   },
   "permissions": [
+    "http://*/",
     "notifications",
     "geolocation"
   ]
